@@ -1,3 +1,239 @@
-/*
- * Estilos de tu proyecto
- */
+
+.body{
+	
+	background-color: red;
+
+}
+.contenedor{
+	
+	overflow: hidden;
+}
+.izq{
+	 font-family: 'Montserrat', sans-serif;
+	 float: left;
+	 text-decoration: none;
+	 width: 90px;
+	 padding: 60px;
+}
+.der{
+	font-family: 'Montserrat', sans-serif;
+	float: right;
+	text-decoration: none;
+	padding: 4px;
+	padding-top: 70px;
+	padding-right: 50px;
+	font-size: 20px
+	color:#fff;
+	
+	}
+.contenedor2{
+	outline: 1px solid yellow;
+	
+	background-color: red;
+	width: 1200px;
+	height:300px;
+	padding: 40px;
+}
+.formulario{
+	outline: 1px solid black;
+
+	float:right;
+	width: 400px;
+	height:50px;
+
+
+
+
+
+}
+.tit-formu{
+	font-family: 'Montserrat', sans-serif;
+	color: #79008a;
+	font-size: 40px;
+
+}
+.subtitu-formu{
+	font-family: 'Montserrat', sans-serif;
+	color: #79008a;
+
+}
+.sing{
+	font-family: 'Montserrat', sans-serif;
+	color: #79008a;
+
+}
+.contenedor3{
+	outline: 1px solid red;
+	width: 1200px;
+	height:700px;
+	padding: 40px;
+
+}
+
+.videofondo{
+	width: 100%;
+    height: auto;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    z-index: -1;
+}
+
+h4{
+
+}
+.text-amplify{
+	outline: 1px solid yellow;
+	width: 500px;
+
+
+}
+.text-celu{
+
+    outline: 1px solid yellow;
+	width: 200;
+	height: 50;
+}
+.titu-celu{
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	padding-left:  90px;
+	padding-top: 50px;
+	padding: 
+
+}
+.subtitu{
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+	padding-left:  90px; 
+
+}
+.celular{
+	
+	width: 500px;
+	float: right;
+	
+	
+}
+
+.contenedor4{
+    width: 1200px;
+	display: inline-block;
+}
+
+
+
+.footer{
+	background-color: #333447;
+	height: 700px;
+
+}
+
+.log-in{
+	outline: 1px solid yellow;
+
+	display: inline-block;
+	width: 200px;
+	height:700px;
+	padding: 20px;
+
+	float: left;
+
+
+}
+.partner{
+	outline: 1px solid yellow;
+	display: inline-block;
+	width: 100px;
+	height:700px;
+	padding: 20px;
+	float: left;
+
+}
+.lear{
+	outline: 1px solid yellow;
+	display: inline-block;
+	width: 100px;
+	height:700px;
+	padding: 20px;
+	float: left;
+
+}
+
+.in{
+	float-left:10px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	font-size: 
+	padding:10px;
+	padding-top: 50px;
+	padding-left:100px;
+
+}
+.par{
+	float: left;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	padding:10px;
+	padding-top: 50px;
+	padding-left:100px;
+
+}
+.le{
+	float: left;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	padding:10px;
+	padding-top: 50px;
+	padding-left:100px;
+
+}
+.in-titu{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	font-size: 20px;
+	float: left;
+	padding-top: 50px;
+	padding-left:100px;
+
+}
+.par-titu{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	font-size: 20px;
+	float: left;
+	padding-top: 50px;
+	padding-left:100px;
+
+}
+.le-titu{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	font-size: 20px;
+	float: left;
+	padding-top: 50px;
+	padding-left:100px;
+
+}
+
+.imagenes{
+outline: 1px solid yellow;
+    padding-right: 400px;
+	display: block;
+	
+	width: 100px;
+	height: 50px;
+	float: right;
+
+}
+.peque{
+	width: 150px;
+	padding: 50px;
+
+}
